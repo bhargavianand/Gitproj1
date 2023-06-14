@@ -1,0 +1,20 @@
+git ls-files  - files in staging area
+
+git status -s
+
+git rm --cached filenameor dir name
+
+git diff --staged
+
+git show HEAD
+
+git show HEAD~
+
+git show HEAD~1
+
+git show HEAD~2
+
+git ls-tree HEAD~1
+
+
+
